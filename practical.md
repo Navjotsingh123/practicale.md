@@ -21,8 +21,9 @@ HELLO TO BUDDING ENGINEERS
 #include<stdio.h>
 int main()
 {
-puts("NAVJOT SINGH \n CSE A2\n 1915052\n\VPO RURKA KALAN LUDHIana"};
+puts("NAVJOT SINGH \n CSE A2\n 1915052\nVPO RURKA KALAN LUDHIana");
 return 0;
+}
 ``` 
 output of programs 
 ```C
